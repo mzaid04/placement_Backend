@@ -1,0 +1,22 @@
+F:\uni\Web Engineering\placement_Backend\PlacementModels\bin\Debug\net7.0\PlacementModels.deps.json
+F:\uni\Web Engineering\placement_Backend\PlacementModels\bin\Debug\net7.0\PlacementModels.dll
+F:\uni\Web Engineering\placement_Backend\PlacementModels\bin\Debug\net7.0\PlacementModels.pdb
+F:\uni\Web Engineering\placement_Backend\PlacementModels\obj\Debug\net7.0\PlacementModels.GeneratedMSBuildEditorConfig.editorconfig
+F:\uni\Web Engineering\placement_Backend\PlacementModels\obj\Debug\net7.0\PlacementModels.AssemblyInfoInputs.cache
+F:\uni\Web Engineering\placement_Backend\PlacementModels\obj\Debug\net7.0\PlacementModels.AssemblyInfo.cs
+F:\uni\Web Engineering\placement_Backend\PlacementModels\obj\Debug\net7.0\PlacementModels.csproj.CoreCompileInputs.cache
+F:\uni\Web Engineering\placement_Backend\PlacementModels\obj\Debug\net7.0\PlacementModels.dll
+F:\uni\Web Engineering\placement_Backend\PlacementModels\obj\Debug\net7.0\refint\PlacementModels.dll
+F:\uni\Web Engineering\placement_Backend\PlacementModels\obj\Debug\net7.0\PlacementModels.pdb
+F:\uni\Web Engineering\placement_Backend\PlacementModels\obj\Debug\net7.0\ref\PlacementModels.dll
+D:\Blazor\placement_Backend\PlacementModels\bin\Debug\net7.0\PlacementModels.deps.json
+D:\Blazor\placement_Backend\PlacementModels\bin\Debug\net7.0\PlacementModels.dll
+D:\Blazor\placement_Backend\PlacementModels\bin\Debug\net7.0\PlacementModels.pdb
+D:\Blazor\placement_Backend\PlacementModels\obj\Debug\net7.0\PlacementModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blazor\placement_Backend\PlacementModels\obj\Debug\net7.0\PlacementModels.AssemblyInfoInputs.cache
+D:\Blazor\placement_Backend\PlacementModels\obj\Debug\net7.0\PlacementModels.AssemblyInfo.cs
+D:\Blazor\placement_Backend\PlacementModels\obj\Debug\net7.0\PlacementModels.csproj.CoreCompileInputs.cache
+D:\Blazor\placement_Backend\PlacementModels\obj\Debug\net7.0\PlacementModels.dll
+D:\Blazor\placement_Backend\PlacementModels\obj\Debug\net7.0\refint\PlacementModels.dll
+D:\Blazor\placement_Backend\PlacementModels\obj\Debug\net7.0\PlacementModels.pdb
+D:\Blazor\placement_Backend\PlacementModels\obj\Debug\net7.0\ref\PlacementModels.dll

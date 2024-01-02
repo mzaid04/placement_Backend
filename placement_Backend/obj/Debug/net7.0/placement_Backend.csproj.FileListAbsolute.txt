@@ -1,0 +1,156 @@
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\appsettings.Development.json
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\appsettings.json
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\placement_Backend.exe
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\placement_Backend.deps.json
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\placement_Backend.runtimeconfig.json
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\placement_Backend.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\placement_Backend.pdb
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\Azure.Core.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\Azure.Identity.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\Humanizer.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\System.CodeDom.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\System.Memory.Data.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\obj\Debug\net7.0\placement_Backend.csproj.AssemblyReference.cache
+F:\uni\Web Engineering\placement_Backend\placement_Backend\obj\Debug\net7.0\placement_Backend.GeneratedMSBuildEditorConfig.editorconfig
+F:\uni\Web Engineering\placement_Backend\placement_Backend\obj\Debug\net7.0\placement_Backend.AssemblyInfoInputs.cache
+F:\uni\Web Engineering\placement_Backend\placement_Backend\obj\Debug\net7.0\placement_Backend.AssemblyInfo.cs
+F:\uni\Web Engineering\placement_Backend\placement_Backend\obj\Debug\net7.0\placement_Backend.csproj.CoreCompileInputs.cache
+F:\uni\Web Engineering\placement_Backend\placement_Backend\obj\Debug\net7.0\placement_Backend.MvcApplicationPartsAssemblyInfo.cs
+F:\uni\Web Engineering\placement_Backend\placement_Backend\obj\Debug\net7.0\placement_Backend.MvcApplicationPartsAssemblyInfo.cache
+F:\uni\Web Engineering\placement_Backend\placement_Backend\obj\Debug\net7.0\staticwebassets\msbuild.placement_Backend.Microsoft.AspNetCore.StaticWebAssets.props
+F:\uni\Web Engineering\placement_Backend\placement_Backend\obj\Debug\net7.0\staticwebassets\msbuild.build.placement_Backend.props
+F:\uni\Web Engineering\placement_Backend\placement_Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.placement_Backend.props
+F:\uni\Web Engineering\placement_Backend\placement_Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.placement_Backend.props
+F:\uni\Web Engineering\placement_Backend\placement_Backend\obj\Debug\net7.0\staticwebassets.pack.json
+F:\uni\Web Engineering\placement_Backend\placement_Backend\obj\Debug\net7.0\staticwebassets.build.json
+F:\uni\Web Engineering\placement_Backend\placement_Backend\obj\Debug\net7.0\staticwebassets.development.json
+F:\uni\Web Engineering\placement_Backend\placement_Backend\obj\Debug\net7.0\scopedcss\bundle\placement_Backend.styles.css
+F:\uni\Web Engineering\placement_Backend\placement_Backend\obj\Debug\net7.0\placement_Backend.csproj.CopyComplete
+F:\uni\Web Engineering\placement_Backend\placement_Backend\obj\Debug\net7.0\placement_Backend.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\obj\Debug\net7.0\refint\placement_Backend.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\obj\Debug\net7.0\placement_Backend.pdb
+F:\uni\Web Engineering\placement_Backend\placement_Backend\obj\Debug\net7.0\placement_Backend.genruntimeconfig.cache
+F:\uni\Web Engineering\placement_Backend\placement_Backend\obj\Debug\net7.0\ref\placement_Backend.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\PlacementModels.dll
+F:\uni\Web Engineering\placement_Backend\placement_Backend\bin\Debug\net7.0\PlacementModels.pdb
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\appsettings.Development.json
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\appsettings.json
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\placement_Backend.exe
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\placement_Backend.deps.json
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\placement_Backend.runtimeconfig.json
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\placement_Backend.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\placement_Backend.pdb
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\Azure.Core.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\Azure.Identity.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\Humanizer.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\System.CodeDom.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\PlacementModels.dll
+D:\Blazor\placement_Backend\placement_Backend\bin\Debug\net7.0\PlacementModels.pdb
+D:\Blazor\placement_Backend\placement_Backend\obj\Debug\net7.0\placement_Backend.csproj.AssemblyReference.cache
+D:\Blazor\placement_Backend\placement_Backend\obj\Debug\net7.0\placement_Backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blazor\placement_Backend\placement_Backend\obj\Debug\net7.0\placement_Backend.AssemblyInfoInputs.cache
+D:\Blazor\placement_Backend\placement_Backend\obj\Debug\net7.0\placement_Backend.AssemblyInfo.cs
+D:\Blazor\placement_Backend\placement_Backend\obj\Debug\net7.0\placement_Backend.csproj.CoreCompileInputs.cache
+D:\Blazor\placement_Backend\placement_Backend\obj\Debug\net7.0\placement_Backend.MvcApplicationPartsAssemblyInfo.cs
+D:\Blazor\placement_Backend\placement_Backend\obj\Debug\net7.0\placement_Backend.MvcApplicationPartsAssemblyInfo.cache
+D:\Blazor\placement_Backend\placement_Backend\obj\Debug\net7.0\staticwebassets\msbuild.placement_Backend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Blazor\placement_Backend\placement_Backend\obj\Debug\net7.0\staticwebassets\msbuild.build.placement_Backend.props
+D:\Blazor\placement_Backend\placement_Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.placement_Backend.props
+D:\Blazor\placement_Backend\placement_Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.placement_Backend.props
+D:\Blazor\placement_Backend\placement_Backend\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Blazor\placement_Backend\placement_Backend\obj\Debug\net7.0\staticwebassets.build.json
+D:\Blazor\placement_Backend\placement_Backend\obj\Debug\net7.0\staticwebassets.development.json
+D:\Blazor\placement_Backend\placement_Backend\obj\Debug\net7.0\scopedcss\bundle\placement_Backend.styles.css
+D:\Blazor\placement_Backend\placement_Backend\obj\Debug\net7.0\placement_Backend.csproj.CopyComplete
+D:\Blazor\placement_Backend\placement_Backend\obj\Debug\net7.0\placement_Backend.dll
+D:\Blazor\placement_Backend\placement_Backend\obj\Debug\net7.0\refint\placement_Backend.dll
+D:\Blazor\placement_Backend\placement_Backend\obj\Debug\net7.0\placement_Backend.pdb
+D:\Blazor\placement_Backend\placement_Backend\obj\Debug\net7.0\placement_Backend.genruntimeconfig.cache
+D:\Blazor\placement_Backend\placement_Backend\obj\Debug\net7.0\ref\placement_Backend.dll
